@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfEfCaliburnMicro", "CaliburnMicro\WpfEfCaliburnMicro.csproj", "{66BFB3A8-1ED0-48F6-B746-15CEFF75CAE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfEfCaliburnMicro", "WpfEfCaliburnMicro\WpfEfCaliburnMicro.csproj", "{66BFB3A8-1ED0-48F6-B746-15CEFF75CAE7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfEfCaliburnMicro.Persistence", "CaliburnMicro.DA\WpfEfCaliburnMicro.Persistence.csproj", "{75D06DE0-81EC-4EC9-8193-7AE9E1EB79AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfEfCaliburnMicro.Persistence", "WpfEfCaliburnMicro.DA\WpfEfCaliburnMicro.Persistence.csproj", "{75D06DE0-81EC-4EC9-8193-7AE9E1EB79AA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfEfCaliburnMicro.Application", "CaliburnMicro.Application\WpfEfCaliburnMicro.Application.csproj", "{D2D17351-2544-4D1A-9A4D-D156265AA70A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfEfCaliburnMicro.Application", "WpfEfCaliburnMicro.Application\WpfEfCaliburnMicro.Application.csproj", "{D2D17351-2544-4D1A-9A4D-D156265AA70A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfEfCaliburnMicro.Domain", "CaliburnMicro.Domain\WpfEfCaliburnMicro.Domain.csproj", "{119048AF-1A52-47F1-BB62-2011852411E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfEfCaliburnMicro.Domain", "WpfEfCaliburnMicro.Domain\WpfEfCaliburnMicro.Domain.csproj", "{119048AF-1A52-47F1-BB62-2011852411E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
